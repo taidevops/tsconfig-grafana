@@ -1,0 +1,18 @@
+{
+  "name": "@tai-ui/tsconfig",
+  "version": "1.0.0-rc1",
+  "description": "Grafana's TypeScript config",
+  "keywords": [
+    "grafana",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/taidevops/tsconfig-grafana.git"
+  },
+  "main": "tsconfig.json",
+  "files": [
+    "base.json",
+    "tsconfig.json"
+  ]
+}
